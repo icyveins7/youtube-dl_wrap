@@ -1,0 +1,1 @@
+On deployment, zlib.dll and libpng16.dll were missing. Found them in Anaconda distribution in \Library\bin.
